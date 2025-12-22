@@ -7,7 +7,6 @@
 
   [![Figma](https://img.shields.io/badge/Main_Tool-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
   [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/)
-  [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
   <p>
     <b>Goal:</b> To learn and practice UI Component Creation, Auto-Layout, Variants, Design Systems, and Interactive Prototyping in Figma — taking you from beginner to intermediate level.
